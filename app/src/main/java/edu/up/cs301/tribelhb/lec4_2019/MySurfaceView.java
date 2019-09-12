@@ -33,9 +33,6 @@ public class MySurfaceView extends SurfaceView {
         paint.setStrokeWidth(5.0f);
 
         canvas.drawCircle(200,200,radius, paint);
-
-
-        // hi Ben
     }
 
      public void setRadius(int r)
